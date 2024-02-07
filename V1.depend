@@ -1,0 +1,1171 @@
+# depslib dependency file v1.0
+1635763534 source:c:\users\victo\onedrive\bureau\cours\ing2\info\exercice c++\projet 1\v1\main.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	<iostream>
+	<string>
+
+1635763872 source:c:\users\victo\onedrive\bureau\cours\ing2\info\exercice c++\projet 1\v1\ctordtorgtrstr.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	<iostream>
+	<string>
+
+1635763886 c:\users\victo\onedrive\bureau\cours\ing2\info\exercice c++\projet 1\v1\cartes.h
+	<string>
+
+1635762881 c:\users\victo\onedrive\bureau\cours\ing2\info\exercice c++\projet 1\v1\user.h
+	<string>
+	<vector>
+
+1635673912 c:\users\victo\onedrive\bureau\cours\ing2\info\exercice c++\projet 1\v1\caseplateau.h
+	<string>
+
+1635763001 source:c:\users\victo\onedrive\bureau\cours\ing2\info\exercice c++\projet 1\v1\jeu.cpp
+	"Cartes.h"
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	<iostream>
+	<string>
+	<map>
+	<fstream>
+
+1635797546 source:c:\users\legay\onedrive\documents\informatique\v1\ctordtorgtrstr.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	<iostream>
+	<string>
+
+1635792553 c:\users\legay\onedrive\documents\informatique\v1\cartes.h
+	<string>
+
+1635792553 c:\users\legay\onedrive\documents\informatique\v1\user.h
+	<string>
+	<vector>
+
+1635794145 c:\users\legay\onedrive\documents\informatique\v1\caseplateau.h
+	<string>
+
+1635792901 source:c:\users\legay\onedrive\documents\informatique\v1\main.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	<iostream>
+	<string>
+
+1635799145 source:c:\users\legay\onedrive\documents\informatique\v1\jeu.cpp
+	"Cartes.h"
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	<iostream>
+	<string>
+	<map>
+	<fstream>
+
+1635866455 source:c:\users\mathi\desktop\v1\ctordtorgtrstr.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	<iostream>
+	<string>
+	<allegro.h>
+
+1635792554 c:\users\mathi\desktop\v1\cartes.h
+	<string>
+
+1635866455 c:\users\mathi\desktop\v1\user.h
+	<string>
+	<vector>
+	<allegro.h>
+
+1635873113 c:\users\mathi\desktop\v1\caseplateau.h
+	<string>
+	<allegro.h>
+
+1635880246 source:c:\users\mathi\desktop\v1\jeu.cpp
+	"Cartes.h"
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	<iostream>
+	<string>
+	<map>
+	<fstream>
+	<allegro.h>
+
+1635867399 source:c:\users\mathi\desktop\v1\main.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	<iostream>
+	<string>
+
+1636992588 source:c:\users\mathi\desktop\maxv1\ctordtorgtrstr.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	<iostream>
+	<string>
+	<allegro.h>
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+
+1637017744 c:\users\mathi\desktop\maxv1\cartes.h
+	<string>
+
+1636992588 c:\users\mathi\desktop\maxv1\user.h
+	<string>
+	<vector>
+	<allegro.h>
+
+1637014598 c:\users\mathi\desktop\maxv1\caseplateau.h
+	<string>
+	<map>
+	<vector>
+	<allegro.h>
+
+1637073853 source:c:\users\mathi\desktop\maxv1\jeu.cpp
+	"Cartes.h"
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	<conio.h>
+
+1637060361 source:c:\users\mathi\desktop\maxv1\main.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	<iostream>
+	<string>
+	<time.h>
+
+1636991800 c:\users\mathi\desktop\maxv1\suspect.h
+	<iostream>
+
+1636991798 c:\users\mathi\desktop\maxv1\arme.h
+	<iostream>
+
+1636991800 c:\users\mathi\desktop\maxv1\lieu.h
+	<iostream>
+
+1636962406 source:c:\users\victo\downloads\maxv1-5\maxv1\ctordtorgtrstr.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	<iostream>
+	<string>
+	<allegro.h>
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+
+1636962406 c:\users\victo\downloads\maxv1-5\maxv1\cartes.h
+	<string>
+
+1636963812 c:\users\victo\downloads\maxv1-5\maxv1\user.h
+	<string>
+	<vector>
+	<allegro.h>
+
+1636963812 c:\users\victo\downloads\maxv1-5\maxv1\caseplateau.h
+	<string>
+	<map>
+	<vector>
+	<allegro.h>
+
+1636962406 c:\users\victo\downloads\maxv1-5\maxv1\suspect.h
+	<iostream>
+
+1636962406 c:\users\victo\downloads\maxv1-5\maxv1\arme.h
+	<iostream>
+
+1636962406 c:\users\victo\downloads\maxv1-5\maxv1\lieu.h
+	<iostream>
+
+1636962406 source:c:\users\victo\downloads\maxv1-5\maxv1\main.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	<iostream>
+	<string>
+	<time.h>
+
+1636963812 source:c:\users\victo\downloads\maxv1-5\maxv1\initialisation.cpp
+	"Cartes.h"
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	<conio.h>
+
+1636963812 source:c:\users\victo\downloads\maxv1-5\maxv1\jeu.cpp
+	"Cartes.h"
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	<conio.h>
+
+1636962408 source:c:\users\mathi\desktop\laplusbelleversion\maxv1\ctordtorgtrstr.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	<iostream>
+	<string>
+	<allegro.h>
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+
+1636962408 c:\users\mathi\desktop\laplusbelleversion\maxv1\cartes.h
+	<string>
+
+1636963814 c:\users\mathi\desktop\laplusbelleversion\maxv1\user.h
+	<string>
+	<vector>
+	<allegro.h>
+
+1636981217 c:\users\mathi\desktop\laplusbelleversion\maxv1\caseplateau.h
+	<string>
+	<map>
+	<vector>
+	<allegro.h>
+
+1636962408 c:\users\mathi\desktop\laplusbelleversion\maxv1\suspect.h
+	<iostream>
+
+1636962408 c:\users\mathi\desktop\laplusbelleversion\maxv1\arme.h
+	<iostream>
+
+1636962408 c:\users\mathi\desktop\laplusbelleversion\maxv1\lieu.h
+	<iostream>
+
+1636970428 source:c:\users\mathi\desktop\laplusbelleversion\maxv1\initialisation.cpp
+	"Cartes.h"
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	<conio.h>
+
+1636981342 source:c:\users\mathi\desktop\laplusbelleversion\maxv1\jeu.cpp
+	"Cartes.h"
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	<conio.h>
+
+1636972913 source:c:\users\mathi\desktop\laplusbelleversion\maxv1\main.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	<iostream>
+	<string>
+	<time.h>
+
+1636981243 source:c:\users\mathi\desktop\laplusbelleversion\maxv1\menus.cpp
+	"Cartes.h"
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	<conio.h>
+
+1636992587 source:c:\users\legay\downloads\laplusbelleversiondemax\laplusbelleversiondemax\maxv1\ctordtorgtrstr.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	<iostream>
+	<string>
+	<allegro.h>
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+
+1636991797 c:\users\legay\downloads\laplusbelleversiondemax\laplusbelleversiondemax\maxv1\cartes.h
+	<string>
+
+1636992587 c:\users\legay\downloads\laplusbelleversiondemax\laplusbelleversiondemax\maxv1\user.h
+	<string>
+	<vector>
+	<allegro.h>
+
+1637014596 c:\users\legay\downloads\laplusbelleversiondemax\laplusbelleversiondemax\maxv1\caseplateau.h
+	<string>
+	<map>
+	<vector>
+	<allegro.h>
+
+1636991798 c:\users\legay\downloads\laplusbelleversiondemax\laplusbelleversiondemax\maxv1\suspect.h
+	<iostream>
+
+1636991797 c:\users\legay\downloads\laplusbelleversiondemax\laplusbelleversiondemax\maxv1\arme.h
+	<iostream>
+
+1636991798 c:\users\legay\downloads\laplusbelleversiondemax\laplusbelleversiondemax\maxv1\lieu.h
+	<iostream>
+
+1636992361 source:c:\users\legay\downloads\laplusbelleversiondemax\laplusbelleversiondemax\maxv1\initialisation.cpp
+	"Cartes.h"
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	<conio.h>
+
+1637016001 source:c:\users\legay\downloads\laplusbelleversiondemax\laplusbelleversiondemax\maxv1\jeu.cpp
+	"Cartes.h"
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	<conio.h>
+
+1637015053 source:c:\users\legay\downloads\laplusbelleversiondemax\laplusbelleversiondemax\maxv1\menus.cpp
+	"Cartes.h"
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	<conio.h>
+
+1636991814 source:c:\users\legay\downloads\laplusbelleversiondemax\laplusbelleversiondemax\maxv1\main.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	<iostream>
+	<string>
+	<time.h>
+
+1637326815 source:c:\users\mathi\desktop\maxv1\menus.cpp
+	"Cartes.h"
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	<conio.h>
+
+1637051512 source:c:\users\mathi\desktop\maxv1\initialisation.cpp
+	"Cartes.h"
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	<conio.h>
+
+1637501035 source:c:\users\legay\onedrive\documents\informatique\version 21 11\ctordtorgtrstr.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+
+1637501306 c:\users\legay\onedrive\documents\informatique\version 21 11\cartes.h
+	<string>
+	<allegro.h>
+
+1637501306 c:\users\legay\onedrive\documents\informatique\version 21 11\user.h
+	<string>
+	<vector>
+	<allegro.h>
+	<iostream>
+
+1637516886 c:\users\legay\onedrive\documents\informatique\version 21 11\caseplateau.h
+	"User.h"
+	"Cartes.h"
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<allegro.h>
+
+1637501306 c:\users\legay\onedrive\documents\informatique\version 21 11\suspect.h
+	<iostream>
+	<allegro.h>
+
+1637501306 c:\users\legay\onedrive\documents\informatique\version 21 11\arme.h
+	<iostream>
+	<allegro.h>
+
+1637501306 c:\users\legay\onedrive\documents\informatique\version 21 11\lieu.h
+	<iostream>
+	<allegro.h>
+
+1637517437 source:c:\users\legay\onedrive\documents\informatique\version 21 11\initialisation.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+
+1637537540 source:c:\users\legay\onedrive\documents\informatique\version 21 11\jeu.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+
+1637520022 source:c:\users\legay\onedrive\documents\informatique\version 21 11\main.cpp
+	"CasePlateau.h"
+	<time.h>
+
+1637537151 source:c:\users\legay\onedrive\documents\informatique\version 21 11\menus.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+
+1637501036 source:c:\users\mathi\desktop\version 21 11\ctordtorgtrstr.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+
+1637501308 c:\users\mathi\desktop\version 21 11\cartes.h
+	<string>
+	<allegro.h>
+
+1637713150 c:\users\mathi\desktop\version 21 11\user.h
+	<string>
+	<vector>
+	<allegro.h>
+	<iostream>
+
+1637713150 c:\users\mathi\desktop\version 21 11\caseplateau.h
+	"User.h"
+	"Cartes.h"
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<allegro.h>
+
+1637501308 c:\users\mathi\desktop\version 21 11\suspect.h
+	<iostream>
+	<allegro.h>
+
+1637501308 c:\users\mathi\desktop\version 21 11\arme.h
+	<iostream>
+	<allegro.h>
+
+1637501308 c:\users\mathi\desktop\version 21 11\lieu.h
+	<iostream>
+	<allegro.h>
+
+1637687322 source:c:\users\mathi\desktop\version 21 11\initialisation.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	<fstream>
+
+1637704688 source:c:\users\mathi\desktop\version 21 11\jeu.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+
+1637579226 source:c:\users\mathi\desktop\version 21 11\main.cpp
+	"CasePlateau.h"
+	<time.h>
+
+1637713150 source:c:\users\mathi\desktop\version 21 11\menus.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	<thread>
+	<chrono>
+	<fstream>
+
+1637708842 source:c:\users\mathi\desktop\version 21 11\saving.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	<fstream>
+	<allegro.h>
+
+1637883049 source:c:\users\legay\downloads\version 21 11(2)\version 21 11\ctordtorgtrstr.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+
+1637852958 c:\users\legay\downloads\version 21 11(2)\version 21 11\cartes.h
+	<string>
+	<allegro.h>
+
+1637883064 c:\users\legay\downloads\version 21 11(2)\version 21 11\user.h
+	<string>
+	<vector>
+	<allegro.h>
+	<iostream>
+
+1637883480 c:\users\legay\downloads\version 21 11(2)\version 21 11\caseplateau.h
+	"User.h"
+	"Cartes.h"
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<allegro.h>
+
+1637852959 c:\users\legay\downloads\version 21 11(2)\version 21 11\suspect.h
+	<iostream>
+	<allegro.h>
+
+1637852958 c:\users\legay\downloads\version 21 11(2)\version 21 11\arme.h
+	<iostream>
+	<allegro.h>
+
+1637852958 c:\users\legay\downloads\version 21 11(2)\version 21 11\lieu.h
+	<iostream>
+	<allegro.h>
+
+1637852958 source:c:\users\legay\downloads\version 21 11(2)\version 21 11\initialisation.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	<fstream>
+
+1637883480 source:c:\users\legay\downloads\version 21 11(2)\version 21 11\jeu.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+
+1637884689 source:c:\users\legay\downloads\version 21 11(2)\version 21 11\main.cpp
+	"CasePlateau.h"
+	<time.h>
+
+1637884734 source:c:\users\legay\downloads\version 21 11(2)\version 21 11\menus.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	<thread>
+	<chrono>
+	<fstream>
+
+1637852959 source:c:\users\legay\downloads\version 21 11(2)\version 21 11\saving.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	<fstream>
+	<allegro.h>
+
+1638121469 source:c:\users\mathi\desktop\version 21 11(2)\version 21 11\jeu.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	"de.h"
+
+1637945099 c:\users\mathi\desktop\version 21 11(2)\version 21 11\cartes.h
+	<string>
+	<allegro.h>
+
+1638120214 c:\users\mathi\desktop\version 21 11(2)\version 21 11\user.h
+	<string>
+	<vector>
+	<allegro.h>
+	<iostream>
+	"Cartes.h"
+	<map>
+
+1638038462 c:\users\mathi\desktop\version 21 11(2)\version 21 11\caseplateau.h
+	"User.h"
+	"Cartes.h"
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<allegro.h>
+
+1637852960 c:\users\mathi\desktop\version 21 11(2)\version 21 11\suspect.h
+	<iostream>
+	<allegro.h>
+
+1638035433 c:\users\mathi\desktop\version 21 11(2)\version 21 11\arme.h
+	<iostream>
+	<allegro.h>
+
+1637852960 c:\users\mathi\desktop\version 21 11(2)\version 21 11\lieu.h
+	<iostream>
+	<allegro.h>
+
+1638041917 source:c:\users\mathi\desktop\version 21 11(2)\version 21 11\main.cpp
+	"CasePlateau.h"
+	<time.h>
+	"Menu.h"
+
+1638124607 source:c:\users\mathi\desktop\version 21 11(2)\version 21 11\saving.cpp
+	<allegro.h>
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	"de.h"
+	<thread>
+	<chrono>
+	<fstream>
+	"Save.h"
+	"Menu.h"
+
+1638037128 source:c:\users\mathi\desktop\version 21 11(2)\version 21 11\ctordtorgtrstr.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	"de.h"
+	"Save.h"
+	"Menu.h"
+
+1638035547 source:c:\users\mathi\desktop\version 21 11(2)\version 21 11\initialisation.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	<fstream>
+
+1638141123 source:c:\users\mathi\desktop\version 21 11(2)\version 21 11\menus.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	"de.h"
+	<thread>
+	<chrono>
+	<fstream>
+	"Save.h"
+	"Menu.h"
+
+1638041108 c:\users\mathi\desktop\version 21 11(2)\version 21 11\de.h
+	<string>
+	<vector>
+	<allegro.h>
+	<iostream>
+	<map>
+
+1638123017 c:\users\mathi\desktop\version 21 11(2)\version 21 11\save.h
+	<string>
+	<vector>
+	<allegro.h>
+	<iostream>
+	<map>
+	<fstream>
+	"Menu.h"
+
+1638054260 c:\users\mathi\desktop\version 21 11(2)\version 21 11\menu.h
+	<string>
+	<vector>
+	<allegro.h>
+	<iostream>
+	<map>
+	<fstream>
+
+1638141373 source:c:\users\legay\downloads\version 21 11(3)\version 21 11(2)\version 21 11\ctordtorgtrstr.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	"de.h"
+	"Save.h"
+	"Menu.h"
+
+1638141373 c:\users\legay\downloads\version 21 11(3)\version 21 11(2)\version 21 11\cartes.h
+	<string>
+	<allegro.h>
+
+1638141374 c:\users\legay\downloads\version 21 11(3)\version 21 11(2)\version 21 11\user.h
+	<string>
+	<vector>
+	<allegro.h>
+	<iostream>
+	"Cartes.h"
+	<map>
+
+1638141373 c:\users\legay\downloads\version 21 11(3)\version 21 11(2)\version 21 11\caseplateau.h
+	"User.h"
+	"Cartes.h"
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<allegro.h>
+
+1638141374 c:\users\legay\downloads\version 21 11(3)\version 21 11(2)\version 21 11\suspect.h
+	<iostream>
+	<allegro.h>
+
+1638141373 c:\users\legay\downloads\version 21 11(3)\version 21 11(2)\version 21 11\arme.h
+	<iostream>
+	<allegro.h>
+
+1638141373 c:\users\legay\downloads\version 21 11(3)\version 21 11(2)\version 21 11\lieu.h
+	<iostream>
+	<allegro.h>
+
+1638141373 c:\users\legay\downloads\version 21 11(3)\version 21 11(2)\version 21 11\de.h
+	<string>
+	<vector>
+	<allegro.h>
+	<iostream>
+	<map>
+
+1638141374 c:\users\legay\downloads\version 21 11(3)\version 21 11(2)\version 21 11\save.h
+	<string>
+	<vector>
+	<allegro.h>
+	<iostream>
+	<map>
+	<fstream>
+	"Menu.h"
+
+1638141373 c:\users\legay\downloads\version 21 11(3)\version 21 11(2)\version 21 11\menu.h
+	<string>
+	<vector>
+	<allegro.h>
+	<iostream>
+	<map>
+	<fstream>
+
+1638141373 source:c:\users\legay\downloads\version 21 11(3)\version 21 11(2)\version 21 11\initialisation.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	<fstream>
+
+1638141373 source:c:\users\legay\downloads\version 21 11(3)\version 21 11(2)\version 21 11\jeu.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	"de.h"
+
+1638142087 source:c:\users\legay\downloads\version 21 11(3)\version 21 11(2)\version 21 11\main.cpp
+	"CasePlateau.h"
+	<time.h>
+	"Menu.h"
+
+1638143033 source:c:\users\legay\downloads\version 21 11(3)\version 21 11(2)\version 21 11\menus.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	"de.h"
+	<thread>
+	<chrono>
+	<fstream>
+	"Save.h"
+	"Menu.h"
+
+1638141374 source:c:\users\legay\downloads\version 21 11(3)\version 21 11(2)\version 21 11\saving.cpp
+	<allegro.h>
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	"de.h"
+	<thread>
+	<chrono>
+	<fstream>
+	"Save.h"
+	"Menu.h"
+
+1638141374 source:c:\users\candice\documents\projet 2021-2022\thomine_simorre_legay (3)\thomine_simorre_legay\version 21 11\ctordtorgtrstr.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	"de.h"
+	"Save.h"
+	"Menu.h"
+
+1638141374 c:\users\candice\documents\projet 2021-2022\thomine_simorre_legay (3)\thomine_simorre_legay\version 21 11\cartes.h
+	<string>
+	<allegro.h>
+
+1638141376 c:\users\candice\documents\projet 2021-2022\thomine_simorre_legay (3)\thomine_simorre_legay\version 21 11\user.h
+	<string>
+	<vector>
+	<allegro.h>
+	<iostream>
+	"Cartes.h"
+	<map>
+
+1638141374 c:\users\candice\documents\projet 2021-2022\thomine_simorre_legay (3)\thomine_simorre_legay\version 21 11\caseplateau.h
+	"User.h"
+	"Cartes.h"
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<allegro.h>
+
+1638141376 c:\users\candice\documents\projet 2021-2022\thomine_simorre_legay (3)\thomine_simorre_legay\version 21 11\suspect.h
+	<iostream>
+	<allegro.h>
+
+1638141374 c:\users\candice\documents\projet 2021-2022\thomine_simorre_legay (3)\thomine_simorre_legay\version 21 11\arme.h
+	<iostream>
+	<allegro.h>
+
+1638141374 c:\users\candice\documents\projet 2021-2022\thomine_simorre_legay (3)\thomine_simorre_legay\version 21 11\lieu.h
+	<iostream>
+	<allegro.h>
+
+1638141374 c:\users\candice\documents\projet 2021-2022\thomine_simorre_legay (3)\thomine_simorre_legay\version 21 11\de.h
+	<string>
+	<vector>
+	<allegro.h>
+	<iostream>
+	<map>
+
+1638141376 c:\users\candice\documents\projet 2021-2022\thomine_simorre_legay (3)\thomine_simorre_legay\version 21 11\save.h
+	<string>
+	<vector>
+	<allegro.h>
+	<iostream>
+	<map>
+	<fstream>
+	"Menu.h"
+
+1638141374 c:\users\candice\documents\projet 2021-2022\thomine_simorre_legay (3)\thomine_simorre_legay\version 21 11\menu.h
+	<string>
+	<vector>
+	<allegro.h>
+	<iostream>
+	<map>
+	<fstream>
+
+1638141374 source:c:\users\candice\documents\projet 2021-2022\thomine_simorre_legay (3)\thomine_simorre_legay\version 21 11\initialisation.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	<fstream>
+
+1638143102 source:c:\users\candice\documents\projet 2021-2022\thomine_simorre_legay (3)\thomine_simorre_legay\version 21 11\jeu.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	"de.h"
+
+1638142088 source:c:\users\candice\documents\projet 2021-2022\thomine_simorre_legay (3)\thomine_simorre_legay\version 21 11\main.cpp
+	"CasePlateau.h"
+	<time.h>
+	"Menu.h"
+
+1638143034 source:c:\users\candice\documents\projet 2021-2022\thomine_simorre_legay (3)\thomine_simorre_legay\version 21 11\menus.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	"de.h"
+	<thread>
+	<chrono>
+	<fstream>
+	"Save.h"
+	"Menu.h"
+
+1638141376 source:c:\users\candice\documents\projet 2021-2022\thomine_simorre_legay (3)\thomine_simorre_legay\version 21 11\saving.cpp
+	<allegro.h>
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	"de.h"
+	<thread>
+	<chrono>
+	<fstream>
+	"Save.h"
+	"Menu.h"
+
+1638137774 source:c:\users\candice\documents\ing2\projet 2021-2022\cluedo\thomine_simorre_legay\version 21 11\ctordtorgtrstr.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	"de.h"
+	"Save.h"
+	"Menu.h"
+
+1638137774 c:\users\candice\documents\ing2\projet 2021-2022\cluedo\thomine_simorre_legay\version 21 11\cartes.h
+	<string>
+	<allegro.h>
+
+1638137776 c:\users\candice\documents\ing2\projet 2021-2022\cluedo\thomine_simorre_legay\version 21 11\user.h
+	<string>
+	<vector>
+	<allegro.h>
+	<iostream>
+	"Cartes.h"
+	<map>
+
+1638137774 c:\users\candice\documents\ing2\projet 2021-2022\cluedo\thomine_simorre_legay\version 21 11\caseplateau.h
+	"User.h"
+	"Cartes.h"
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<allegro.h>
+
+1638137776 c:\users\candice\documents\ing2\projet 2021-2022\cluedo\thomine_simorre_legay\version 21 11\suspect.h
+	<iostream>
+	<allegro.h>
+
+1638137774 c:\users\candice\documents\ing2\projet 2021-2022\cluedo\thomine_simorre_legay\version 21 11\arme.h
+	<iostream>
+	<allegro.h>
+
+1638137774 c:\users\candice\documents\ing2\projet 2021-2022\cluedo\thomine_simorre_legay\version 21 11\lieu.h
+	<iostream>
+	<allegro.h>
+
+1638137774 c:\users\candice\documents\ing2\projet 2021-2022\cluedo\thomine_simorre_legay\version 21 11\de.h
+	<string>
+	<vector>
+	<allegro.h>
+	<iostream>
+	<map>
+
+1638137776 c:\users\candice\documents\ing2\projet 2021-2022\cluedo\thomine_simorre_legay\version 21 11\save.h
+	<string>
+	<vector>
+	<allegro.h>
+	<iostream>
+	<map>
+	<fstream>
+	"Menu.h"
+
+1638137774 c:\users\candice\documents\ing2\projet 2021-2022\cluedo\thomine_simorre_legay\version 21 11\menu.h
+	<string>
+	<vector>
+	<allegro.h>
+	<iostream>
+	<map>
+	<fstream>
+
+1638137774 source:c:\users\candice\documents\ing2\projet 2021-2022\cluedo\thomine_simorre_legay\version 21 11\initialisation.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	<fstream>
+
+1638139502 source:c:\users\candice\documents\ing2\projet 2021-2022\cluedo\thomine_simorre_legay\version 21 11\jeu.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	"de.h"
+
+1638138488 source:c:\users\candice\documents\ing2\projet 2021-2022\cluedo\thomine_simorre_legay\version 21 11\main.cpp
+	"CasePlateau.h"
+	<time.h>
+	"Menu.h"
+
+1638139434 source:c:\users\candice\documents\ing2\projet 2021-2022\cluedo\thomine_simorre_legay\version 21 11\menus.cpp
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	"de.h"
+	<thread>
+	<chrono>
+	<fstream>
+	"Save.h"
+	"Menu.h"
+
+1638137776 source:c:\users\candice\documents\ing2\projet 2021-2022\cluedo\thomine_simorre_legay\version 21 11\saving.cpp
+	<allegro.h>
+	"Cartes.h"
+	"User.h"
+	"CasePlateau.h"
+	"Suspect.h"
+	"Arme.h"
+	"Lieu.h"
+	"de.h"
+	<thread>
+	<chrono>
+	<fstream>
+	"Save.h"
+	"Menu.h"
+
