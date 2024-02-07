@@ -2,13 +2,13 @@
 #include <time.h>
 #include "Menu.h"
 
-//Tout ce qui est en rapport avec la musique et allegro n'appartient pas à des classes
+//Tout ce qui est en rapport avec la musique et allegro n'appartient pas ï¿½ des classes
 //car ce sont des librairies a part qui ont leurs propres methodes
 
 
 int main(int argc, char *argv[])
 {
-    // Graphismes chargés depuis des fichiers .bmp
+    // Graphismes chargï¿½s depuis des fichiers .bmp
     BITMAP *fond = new BITMAP;
     BITMAP *attente;
     /// INITIALISATION ALLEGRO et services
