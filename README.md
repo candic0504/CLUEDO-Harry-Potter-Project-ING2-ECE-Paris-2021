@@ -32,7 +32,7 @@ Dans l'onglet **"Linker"**, ajoutez les chemins vers les bibliothèques Allegro.
 
 ## Vidéo
 
-Vous pouvez retrouver notre vidéo de présentation de notre dashboard avec ce lien youtube : *Voir la video*
+Vous pouvez retrouver notre vidéo de présentation de notre Cluedo avec ce lien  : *Voir la video*
 
 ## Usages
 
