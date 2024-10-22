@@ -9,6 +9,35 @@ Dans le cadre de notre 2ème année en école d'ingénieurs à l'ECE Paris, notr
 
 L'architecture du jeu est soigneusement conçue autour de plusieurs classes qui modélisent les différents aspects du Cluedo : les personnages, avec des héros emblématiques de la saga Harry Potter, les lieux mystérieux de Poudlard et d'autres sites emblématiques du monde des sorciers, ainsi que les énigmes et sortilèges qui enrichissent le gameplay. Chaque élément du jeu est représenté par une classe distincte, permettant une gestion claire et une évolutivité du code.
 
+## Scénario du jeu
+
+Les joueurs doivent résoudre le meurtre du Dobby en découvrant :
+
+- **Suspect** : Qui a commis le meurtre ?
+- **Lieu** : Dans quelle pièce du manoir le meurtre a-t-il eu lieu ?
+- **Arme** : Quelle arme a été utilisée ?
+
+### Déroulement du jeu
+
+- Les joueurs se déplacent dans le manoir en lançant un dé.
+- Lorsqu'un joueur entre dans une pièce, il peut faire une hypothèse sur le meurtre.
+- Les autres joueurs doivent fournir des alibis en montrant des cartes.
+
+### Fin du jeu
+
+- Lorsqu'un joueur pense avoir trouvé les trois éléments (suspect, lieu, arme), il fait une accusation.
+- Si l'accusation est correcte, le jeu se termine ; sinon, le joueur est éliminé.
+
+## Cahier des charges
+
+Le projet respecte les éléments suivants :
+
+- Création d'un plateau de jeu avec des lieux.
+- Création de cartes pour les suspects, les armes et les lieux.
+- Gestion des joueurs et de leurs cartes.
+- Enregistrement des matchs en cours pour une reprise ultérieure.
+- Possibilité de jouer contre des adversaires virtuels.
+
 ## Installation
 
 Télécharger une version d'allegro *[ici](https://liballeg.org/old.html)*.
